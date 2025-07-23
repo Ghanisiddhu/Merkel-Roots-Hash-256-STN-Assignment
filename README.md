@@ -1,1 +1,1 @@
-# Merkel-Roots-Hash-256-STN-Assignment
+# Merkel-Roots-Hash-256
